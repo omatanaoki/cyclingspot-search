@@ -70,7 +70,7 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 - フォロー中のユーザーとフォロワーの一覧表示
 ### その他
 - レスポンシブ対応
-- テスト
+
 
 <!-- ## Laravel Sponsors -->
 ## 使用技術
@@ -88,6 +88,9 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 - MySQL 5.7.33
 ### インフラ・開発環境等
 - AWS(EC2,VPC,S3)
+- 
+### サーバ
+- apache2
 
 ### その他
 - Google API
