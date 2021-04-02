@@ -89,7 +89,7 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 ### インフラ・開発環境等
 - AWS(EC2,VPC,S3)
 - heroku
-- 
+ 
 ### サーバ
 - apache2
 
