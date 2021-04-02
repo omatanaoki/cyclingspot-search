@@ -87,11 +87,11 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 ### DB
 - MySQL 5.7.33
 ### インフラ・開発環境等
-- AWS(EC2,VPC,S3)
+- AWS(EC2,VPC,S3,IAM)
 - heroku
  
 ### サーバ
-- apache2
+- apache2(Web Server)
 
 ### その他
 - Google API
@@ -108,6 +108,11 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 
 ### 地図一覧
 <img width="618" alt="地図表示" src="https://user-images.githubusercontent.com/63571051/112466300-0d79af00-8da9-11eb-8e4f-402ce0382dd4.png">
+
+
+### 課題、今後実装したい機能
+より使いやすいアプリケーションを目指し、UI/UXを改善する
+保守性を高める為にCircleCI、実行環境をDockerfileを導入する
 
 <!-- We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell): -->
 
