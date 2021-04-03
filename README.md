@@ -33,11 +33,17 @@ URL: [https://cyclingspot-search.herokuapp.com/](https://cyclingspot-search.hero
 
 
 私は趣味でサイクリングをしております。新型コロナウイルスの感染拡大を受け、「三密」を避ける手段として自転車通勤を始める人やサイクリングを新たに始める人が増えています。そこで少しでもサイクリングの楽しさを共有できればと思い本サービスを作成しました。
+
+### 投稿一覧
+<img width="618" alt="投稿一覧" src="https://user-images.githubusercontent.com/63571051/112465591-3f3e4600-8da8-11eb-9bf7-87e92fb4f6ac.png">
+
+
+### 地図一覧
+<img width="618" alt="地図表示" src="https://user-images.githubusercontent.com/63571051/112466300-0d79af00-8da9-11eb-8e4f-402ce0382dd4.png">
+
 <!-- ## 工夫した点
 ・無限コメント機能
 ・CI/CDパイプラインの構築 -->
-
-
 ## 機能一覧
 ### ユーザー機能
 - ユーザー登録・編集・削除
@@ -91,14 +97,6 @@ URL: [https://cyclingspot-search.herokuapp.com/](https://cyclingspot-search.hero
 ### その他
 - Google API
 - ソースコード管理：GitHub
-
-
-### 投稿一覧
-<img width="618" alt="投稿一覧" src="https://user-images.githubusercontent.com/63571051/112465591-3f3e4600-8da8-11eb-9bf7-87e92fb4f6ac.png">
-
-
-### 地図一覧
-<img width="618" alt="地図表示" src="https://user-images.githubusercontent.com/63571051/112466300-0d79af00-8da9-11eb-8e4f-402ce0382dd4.png">
 
 
 ### 課題、今後実装したい機能
