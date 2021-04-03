@@ -5,7 +5,10 @@
 # アプリ概要
 就職活動用のポートフォリオとして開発した個人アプリです。 
 有益なサイクリングスポットを共有し合うことにより、地域ごとの魅力を発掘することを目的としたサービスです。
-
+## アピールポイント
+- 投稿した記事を編集・削除できる
+- ゲストユーザーとしてログインできる
+- 地図表示，都道府県別で検索が可能
 
 <img width="618" alt="ログイン画面" src="https://user-images.githubusercontent.com/63571051/112464275-a2c77400-8da6-11eb-8d0d-9cd555ba093b.png">
 
@@ -88,11 +91,7 @@ URL: [https://cyclingspot-search.herokuapp.com/](https://cyclingspot-search.hero
 ### その他
 - Google API
 - ソースコード管理：GitHub
-## アピールポイント
-- フォロー機能
-- ゲストユーザーとしてログインできる
-- エラーメッセージの日本語化
-- 地図表示
+
 
 ### 投稿一覧
 <img width="618" alt="投稿一覧" src="https://user-images.githubusercontent.com/63571051/112465591-3f3e4600-8da8-11eb-9bf7-87e92fb4f6ac.png">
