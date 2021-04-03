@@ -113,8 +113,9 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 
 
 ### 課題、今後実装したい機能
-より使いやすいアプリケーションを目指し、UI/UXを改善する
+- より使いやすいアプリケーションを目指し、UI/UXを改善する
 保守性を高める為にCircleCI、実行環境をDockerfileを導入する
+- AWSのECSやECRを使った本番環境のコンテナ化
 
 <!-- We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell): -->
 
