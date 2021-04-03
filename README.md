@@ -6,12 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p> -->
+# アプリ概要
+就職活動用のポートフォリオとして開発した個人アプリです。 
+有益なサイクリングスポットを共有し合うことにより、地域ごとの魅力を発掘することを目的としたサービスです。
 
-# サイクリングスポット情報共有サービス CYCLINGSPOT-SEARCHについて
 
 <img width="618" alt="ログイン画面" src="https://user-images.githubusercontent.com/63571051/112464275-a2c77400-8da6-11eb-8d0d-9cd555ba093b.png">
 
-有益なサイクリングスポットを共有し合うことにより、地域ごとの魅力を発掘することを目的としたサービスです。
+
 <!-- Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as: -->
 
 ## URL
