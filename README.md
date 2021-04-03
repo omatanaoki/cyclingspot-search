@@ -50,7 +50,7 @@ URL: [https://cyclingspot-search.herokuapp.com/](https://cyclingspot-search.hero
 ・CI/CDパイプラインの構築 -->
 
 
-## 機能一覧
+# 機能一覧
 ### ユーザー機能
 - ユーザー登録・編集・削除
 - 一覧表示
