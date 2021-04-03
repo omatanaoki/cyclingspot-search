@@ -30,7 +30,7 @@ URL: [https://cyclingspot-search.herokuapp.com/](https://cyclingspot-search.hero
 - Database agnostic [schema migrations](https://laravel.com/docs/migrations).
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting). -->
-トップページのログインボタンからログインページに遷移していただき、「ゲストログインボタン」からゲストユーザーとしてログインしアプリをご使用いただけます。
+トップページのログインボタンからログインページに遷移していただき、「**ゲストログインボタン**」からゲストユーザーとしてログインしアプリをご使用いただけます。
 <br>
 
 
