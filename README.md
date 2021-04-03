@@ -97,8 +97,8 @@ If you're not in the mood to read, [Laracasts](https://laracasts.com) contains o
 
 ### その他
 - Google API
-
-### アピールポイント
+- ソースコード管理：GitHub
+## アピールポイント
 - フォロー機能
 - ゲストユーザーとしてログインできる
 - エラーメッセージの日本語化
