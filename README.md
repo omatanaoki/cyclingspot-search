@@ -35,7 +35,7 @@ URL: [https://cyclingspot-search.herokuapp.com/](https://cyclingspot-search.hero
 私は趣味でサイクリングをしております。新型コロナウイルスの感染拡大を受け、「三密」を避ける手段として自転車通勤を始める人やサイクリングを新たに始める人が増えています。そこで少しでもサイクリングの楽しさを共有できればと思い本サービスを作成しました。
 
 ### 投稿一覧
-<img width="618" alt="投稿一覧" src="https://user-images.githubusercontent.com/63571051/112465591-3f3e4600-8da8-11eb-9bf7-87e92fb4f6ac.png">
+<img width="618" alt="投稿一覧" src="https://user-images.githubusercontent.com/63571051/113480501-75c64000-94cf-11eb-801d-ec0ba6f84214.png">
 
 
 ### 地図一覧
