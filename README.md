@@ -43,9 +43,13 @@ URL: [https://cyclingspot-search.herokuapp.com/](https://cyclingspot-search.hero
 
 ## 編集ページ
 <img width="618" alt="編集ページ" src="https://user-images.githubusercontent.com/63571051/113480621-30564280-94d0-11eb-8085-668347497e75.png">
+
+
 <!-- ## 工夫した点
 ・無限コメント機能
 ・CI/CDパイプラインの構築 -->
+
+
 ## 機能一覧
 ### ユーザー機能
 - ユーザー登録・編集・削除
